@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Spin-off of "Challenge: Wishlist"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    
+    <h1>Wishlist</h1>
+    
+    <h2>List of five things I want</h2>
+    
+    <u>
+        <li>Food</li>
+        <li>Clothes</li>
+        <li>Piano</li>
+        <li>Cat</li>
+        <li>Lego Airplane</li>
+    </u>
+    
+    <h3>Top five places I want to go</h3>
+    
+    <ol>
+        <li>London</li>
+        <li>Paris</li>
+        <li>Shanghai</li>
+        <li>Japan</li>
+        <li>Korea</li>
+    </ol>
+    
+    </body>
+</html>
